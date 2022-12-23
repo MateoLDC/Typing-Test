@@ -1,0 +1,28 @@
+const texts = [
+  "Les ordinateurs sont rapides ; les programmeurs les gardent lents. ",
+  "Un code supprimé est un code débogué. ",
+  "Les logiciels et les cathédrales, c'est un peu la même chose - d'abord on les construit, ensuite on prie. ",
+  "Le copier-coller a été programmé par des programmeurs pour des programmeurs. ",
+  "Un fils a demandé à son père (un programmeur) pourquoi le soleil se lève à l'est et se couche à l'ouest. Sa réponse ? Ça marche, il ne faut pas toucher ! ",
+  "J'ai enfin appris ce que signifie compatible. Ça veut dire qu'on peut garder toutes nos vieilles erreurs. ",
+  "Ça compile ; on peut le ship ! ",
+  "La plupart d'entre vous sont familiers avec les vertus d'un programmeur. Il y en a trois, bien sûr : la paresse, l'impatience et l'orgueil démesuré. ",
+  "Un : les démonstrations se plantent toujours. Et deux : La probabilité qu'elles se plantent augmente de façon exponentielle avec le nombre de personnes qui les regardent. ",
+  "99 petits bugs dans le code. 99 petits bugs dans le code. Enlevez-en un, corrigez-le. 127 petits bugs dans le code … ",
+  "C'est une bonne situation ça Scribe ? ",
+  "Vous savez, moi je ne crois pas qu'il y ait de bonne ou de mauvaise situation.Moi, si je devais résumer ma vie aujourd'hui avec vous, je dirais que c'est d'abord des rencontres. Des gens qui m'ont tendu la main, peut - être à un moment où je ne pouvais pas, où j'étais seul chez moi. Et c'est assez curieux de se dire que les hasards, les rencontres, forgent une destinée...Parce que quand on a le goût de la chose, quand on a le goût de la chose bien faite, le beau geste, parfois on ne trouve pas l'interlocuteur en face je dirais, le miroir qui vous aide à avancer. Alors ça n'est pas mon cas, comme je disais là, puisque moi au contraire, j'ai pu : et je dis merci à la vie, je lui dis merci, je chante la vie, je danse la vie... je ne suis qu'amour! Et finalement, quand beaucoup de gens aujourd'hui me disent « Mais comment fais-tu pour avoir cette humanité ? », et bien je leur réponds très simplement, je leur dis que c'est ce goût de l'amour ce goût donc qui m'a poussé aujourd'hui à entreprendre une construction mécanique, mais demain qui sait ? Peut-être simplement à me mettre au service de la communauté, à faire le don, le don de soi... ",
+  "Aujourd'hui, la programmation est une course entre les ingénieurs logiciels qui s'efforcent de construire des programmes de plus en plus grands et de mieux en mieux protégés contre les idiots, et l'Univers qui essaie de produire des idiots de plus en plus grands. Jusqu'à présent, l'univers gagne. ",
+  "Mesurer les progrès de la programmation en lignes de code, c'est comme mesurer les progrès de la construction d'un avion en poids. ",
+  "Algorithme : Mot utilisé par les programmeurs quand ils ne veulent pas expliquer ce qu'ils ont fait. ",
+  "Si le debug est le processus d'élimination des bugs, alors la programmation doit être le processus d'introduction des bugs. ",
+  "Programmeur : Une machine qui transforme le café en code. ",
+  "Marcher sur l'eau et développer un logiciel à partir d'une spécification sont faciles si les deux sont figés. ",
+  "Les logiciels subissent des tests bêta peu avant leur sortie. Beta, c'est du latin pour dire que ça ne marche toujours pas. ",
+  "Toujours coder comme si la personne qui finit par maintenir votre code est un psychopathe violent qui sait où vous habitez. ",
+  "Un programme n'est jamais complet à moins de 90% et jamais à plus de 95%. ",
+  "Dans une pièce remplie des meilleurs concepteurs de logiciels, si deux sont d'accord sur la même chose, c'est une majorité. ",
+  "Un bon programmeur est quelqu'un qui regarde toujours des deux côtés avant de traverser une rue à sens unique. ",
+  "Quand j'ai écrit ce code, seuls dieu et moi comprenions ce que j'ai fait. Maintenant, seul dieu le sait. ",
+];
+
+// https://www.commentcoder.com/citations-informatique/
